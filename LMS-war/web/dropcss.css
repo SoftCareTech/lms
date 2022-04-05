@@ -1,0 +1,25 @@
+body {
+    font-family: Times New Roman, Times, serif;
+}
+
+table {
+	font-family:Times New Roman, Times, serif;
+        font-size:12px;
+        
+}
+
+.zitPartBodyAlt {
+	background-color:#dddddd;
+        font-family: Times New Roman, Times, serif;
+	
+}
+
+.reghead {
+
+
+	font-family: Times New Roman, Times, serif;
+	
+        color:  #ffffff;
+	
+	background-image:url(image/body-bg.png)
+}
